@@ -80,8 +80,8 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  #spec.source       = { :git => "https://github.com/nsnull0/MicrosoftSpeechYWS.git", :tag => "#{spec.version}" }
-  spec.source       = { :path => '.' }
+   spec.source       = { :git => "https://github.com/nsnull0/MicrosoftSpeechYWS.git", :tag => "v1.0-alpha" }
+  #spec.source       = { :path => '.' }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
